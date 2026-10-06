@@ -1,0 +1,26 @@
+#RestAPI framework
+fastapi[standard]
+
+# ORM Relational
+sqlalchemy
+
+# migraatiotyökalu
+alembic
+
+# Pythonin postgres -ajuri
+psycopg2-binary
+
+# luetaan ympäristömuuttujia
+python-dotenv
+
+# hashing
+passlib
+
+#
+argon2-cffi
+
+#
+pyjwt[crypto]
+
+#
+coverage
